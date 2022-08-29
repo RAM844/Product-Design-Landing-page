@@ -18,8 +18,8 @@
 - It took me around 5 hours to built this website from scratch.
 
 ## Links
-- [live demo](#)
-- [source](#)
+- [live demo](https://product-design-landing-page-shriram.netlify.app/)
+- [source](https://github.com/RAM844/Product-Design-Landing-page)
 
 
 ## Contact me
